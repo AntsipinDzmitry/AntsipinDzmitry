@@ -21,7 +21,7 @@
   I am a future Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
   - :telescope: I’m studying Java, its frameworks and programming in general.
 
-- :seedling: My main desire is to become a full stack developer.
+- :seedling: My main desire is to participate in the creation an interesting and usefull product as Java developer.
 
 - :zap: In my free time, I solve tasks on Codegym and read tech articles.
 
