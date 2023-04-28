@@ -18,8 +18,8 @@
   
   ### :man_technologist: About Me :
 
-  I am a future Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
-  - :telescope: I’m studying Java, its frameworks and programming in general.
+  I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
+  - :telescope: I study Java, its frameworks and programming in general.
 
 - :seedling: My main desire is to participate in the creation an interesting and usefull product as Java developer.
 
